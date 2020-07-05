@@ -1,0 +1,68 @@
+
+
+html{
+  font-size:14px;
+  color:#2f4b66;
+}
+.container>.air>.first .bg_color{
+  float:left;
+  width:200px;
+  height:40px;
+  line-height:40px;
+  font-size:16px;
+  font-weight:700;
+  border-radius:2px 2px 0 0;
+  padding:0;margin:0;
+  text-align:center;
+  background-color:#06c584;
+}
+.container>.air>.ticket>div{
+  margin-bottom:8px;
+}
+.container>.air>.ticket>.input_style{
+  display:flex;
+  font-size:16px;
+  margin-top:10px;
+  color:#333;
+}
+
+.container>.air>.ticket>div .ml_8{
+  margin-left:128px;
+}
+.container>.air>.ticket>div .span_text{
+  font-size:14px;
+  color:#b2b2b2;
+}
+.container>.air>.ticket>div.input_text{
+  font-size:14px;
+  color:#888;
+}
+.container>.air>.ticket>.ninth {
+  width:370px;height:40px;
+  text-align:center;
+  border-radius:2px;
+  padding-top:5px;
+  background:#ff6257 url(../img/air\ ticket/01/search.png) no-repeat center;
+  background-position:140px;
+}
+.w_10{
+  height:32px;
+  width:32px;
+}
+.a_style{
+  width:100px;height:100px;
+  padding:10px;
+}
+.container>.footer{
+  background-color:#eaeaea;
+  width:100%;
+  margin:10px auto;
+  padding:18px 0;
+}
+.container>.footer .a_style{
+  font-size:10px;
+}
+.container>.footer>.first{
+
+}
+
